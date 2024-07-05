@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  gataria-backend-catalog:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-05T11:36:13.378871008-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 6f33b32a3a5dd46d24cadcb520d9c8de1c04e4c2f65a7238a735b407ba5f62a0
+    name: gataria-backend-catalog
+    type: application
+    urls:
+    - https://tcc.com/charts/gataria-backend-catalog-0.1.0.tgz
+    version: 0.1.0
+  gataria-backend-images:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-05T11:36:13.379408532-03:00"
+    description: A Helm chart for Kubernetes
+    digest: ccb7b1233d159cf8bfa5ee034f3951ffe3d457096dd19d1281423be2f559119b
+    name: gataria-backend-images
+    type: application
+    urls:
+    - https://tcc.com/charts/gataria-backend-images-0.1.0.tgz
+    version: 0.1.0
+  gataria-frontend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-05T11:36:13.379847012-03:00"
+    description: A Helm chart for Kubernetes
+    digest: c451ed237f71f83976564e4073475c4d395a01786f405a0399c70b523ddbe381
+    name: gataria-frontend
+    type: application
+    urls:
+    - https://tcc.com/charts/gataria-frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-05T11:36:13.378157369-03:00"
